@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://taibiayub:Monkey_king1@vpedev-ovhvg.mongodb.net/test?retryWrites=true"
+    "mongoURI": "mongodb://taibiayub:Monkey_king1@vpedev-shard-00-00-ovhvg.mongodb.net:27017,vpedev-shard-00-01-ovhvg.mongodb.net:27017,vpedev-shard-00-02-ovhvg.mongodb.net:27017/test?ssl=true&replicaSet=VPEdev-shard-0&authSource=admin&retryWrites=true",
+    "jwtsecret": "mysecrettoken"
 }
